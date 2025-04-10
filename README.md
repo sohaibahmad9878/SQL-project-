@@ -1,1 +1,2 @@
 # SQL-project-
+In this project, I worked with a sample books,customers and orders database consisting of many tables like Customer_id,book_id, Orders,quantity,stock and many more. The objective was to analyze how many customer orders book from different countries and how much stock available after order placed and solve approx 20 quetions, identify top-performing products, and evaluate customer buying behavior.
